@@ -1,0 +1,18 @@
+body{
+    margin: 0 auto;    
+}
+.content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background: white;
+    justify-content: center; 
+}
+.login{
+    margin: 33%;
+    background: grey;
+    opacity: 0.5;
+    width:200px;
+    height: 250px;
+    
+}
